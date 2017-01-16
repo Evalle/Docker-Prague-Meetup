@@ -1,2 +1,4 @@
 # Docker-Prague-Meetup
-Docker Prague Meetups
+Docker Prague Meetup
+- First Docker Meetup in 2017!
+- ... 
