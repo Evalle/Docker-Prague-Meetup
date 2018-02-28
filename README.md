@@ -5,3 +5,4 @@ Presentations from the Docker Prague Meetups
 - [23/05/17 - Docker Meetup Spring Edition](23_05_17/23-05-17.md)
 - [24/10/17 - Docker Meetup Autumn Edition](24_10_17/24-10-17.md)
 - [23/11/17 - Docker Meetup, Portainer Edition](23_11_17/23-11-17.md)
+- [22/02/18 - Docker Meetup, Winter Edition](22_12_18/22-12-18.md)
